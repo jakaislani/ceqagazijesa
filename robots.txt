@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://ceqagazijesa.netlify.app/sitemap.xml
